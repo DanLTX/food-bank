@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=FoodItem
+comment1.params=
+comment1.target=FoodItem()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=n\ ic\ p\ nf\ q
+comment2.target=FoodItem(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getNameFood()
+comment4.params=
+comment4.target=int\ getQuantity()
+comment5.params=
+comment5.target=Donater\ getDonater()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=newN\ newIc\ newP\ newNameFood\ newQuantity
+comment7.target=void\ setDetails(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=java.lang.String\ calExpirationDate()
+comment9.params=np
+comment9.target=void\ setPhoneNum(java.lang.String)
+numComments=11

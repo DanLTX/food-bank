@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Donater
+comment1.params=
+comment1.target=Donater()
+comment2.params=name\ icNum\ phoneNum
+comment2.target=Donater(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getIcNum()
+comment5.params=
+comment5.target=java.lang.String\ getPhoneNum()
+comment6.params=newName\ newIcNum\ newPhoneNum
+comment6.target=void\ setDetails(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=np
+comment7.target=void\ setPhoneNum(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

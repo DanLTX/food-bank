@@ -1,0 +1,20 @@
+Hafiz;040103010743;0199975463;1;Pepsi;10;Soda;Can;24;05;2025
+Danial;03012050120;0197317469;2;Maggi Tomyam;6;Instant noodles;Bag;12;04;2028
+Afiq;0601203010230;0143256233;3;Nasi Bujang;4;03;2;Rice;Egg;Container
+Aiman;071222050823;0193352674;1;Dasani;12;Mineral Water;Bottle;29;12;2030
+Zulaiman;040211034356;0154123442;2;Doritos;4;Tortila Chip;Bag;27;03;2020
+Dzarief;041205100373;0148561243;1;Fanta Orange;1;Soda;Carton;11;04;2025
+Naqeeb;021010050847;0167452379;3;Nasi Lemak;15;10;5;Rice;Chicken;Sambal;Peanut;Cucumber;Container
+Khairul;001213100623;0143217648;3;Nasi Goreng;5;9;3;Rice;Egg;Vegetable;Tray
+Izmi;051525071013;0163449844;2;Super Ring;8;Snack;Box;24;05;2025
+Shahidul;070912090113;0177431221;1;Red Bull;4;Energy Drink;Can;09;12;2023
+Iskandar;981213020982;0198403927;2;Baked Beans;30;Beans;Can;12;04;2015
+Ikram;011224080922;0165478699;3;Roti Canai;50;6;3;Flour;Butter;Yeast;Container
+Rahim;061211098734;0198431249;1;F&N Strawberry;20;Soda;Bottle;22;10;2029
+Kamal;991203010722;0132139031;2;Nescafe Coffe;12;Instant Coffe;Bag;22;09;2024
+Zarah;011022061032;0130397823;2;Gardenia;9;Bread;Bag;25;07;2023
+Siti;031205020876;0198772432;3;Spaghetti Bolognese;10;9;4;Pasta;Tomato Soup;Minced Beef;Parmesan Cheese;Tray
+Saiful;010205010432;0185543829;1;Coca-Cola;15;Soda;Can;21;05;2021
+Aidah;030713050224;0112459875;2;Oreo;3;Cookie;Box;10;08;2026
+Hisyam;040226010642;;0122347593;3;Beef Burger;15;19;5;Bun;Beef Patty;Lettuce;Ketchup;Pickle;Container
+Ahmad;001230071243;0153549087;1;Evian;5;Mineral Water;Carton;02;11;2033
